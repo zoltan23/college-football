@@ -1,0 +1,109 @@
+,city,admin_name,lat,lng,name,height,weight,position,team
+0,"Detroit, MI",MI,42.3834,-83.1024,"Alabi, Joshua",6-5,295,OL,/ohio-state
+1,"Tampa, FL",FL,27.9942,-82.4451,"Petit-Frere, Nicholas",6-5,288,OL,/ohio-state
+2,"Brooklyn, NY",NY,40.6501,-73.9496,"Jones, Matthew",6-4,299,OL,/ohio-state
+3,"Brooklyn, NY",NY,40.6501,-73.9496,"Wint, Jahsen",5-10,196,DB,/ohio-state
+4,"St. Louis, MO",MO,38.6358,-90.2451,"Babb, Kamryn",6-0,200,WR,/ohio-state
+5,"St. Louis, MO",MO,38.6358,-90.2451,"Brown, Cameron",6-0,185,DB,/ohio-state
+6,"St. Louis, MO",MO,38.6358,-90.2451,"Williams, Jameson",6-2,170,WR,/ohio-state
+7,"Las Vegas, NV",NV,36.2333,-115.2654,"Garrett, Haskell",6-2,286,DL,/ohio-state
+8,"Orlando, FL",FL,28.4772,-81.3369,"Banks, Sevyn",6-0,195,DB,/ohio-state
+9,"Cleveland, OH",OH,41.4767,-81.6805,"Dever, Kevin",--,--,DB,/ohio-state
+10,"Cleveland, OH",OH,41.4767,-81.6805,"Eichenberg, Tommy",6-3,225,LB,/ohio-state
+11,"Cleveland, OH",OH,41.4767,-81.6805,"Harris, Jaylen",6-5,205,WR,/ohio-state
+12,"Cleveland, OH",OH,41.4767,-81.6805,"McFarquhar, Lloyd",5-9,170,DB,/ohio-state
+13,"Cleveland, OH",OH,41.4767,-81.6805,"Smith, Tyreke",6-4,255,DL,/ohio-state
+14,"Cleveland, OH",OH,41.4767,-81.6805,"Woidke, Kevin",6-6,310,OL,/ohio-state
+15,"Cincinnati, OH",OH,39.1412,-84.506,"Cage, Jerron",6-3,280,DL,/ohio-state
+16,"Cincinnati, OH",OH,39.1412,-84.506,"Chrisman, Drue",6-3,212,P,/ohio-state
+17,"Cincinnati, OH",OH,39.1412,-84.506,"Davin, Brock",6-3,235,TE,/ohio-state
+18,"Cincinnati, OH",OH,39.1412,-84.506,"Hausmann, Jake",6-4,252,TE,/ohio-state
+19,"Cincinnati, OH",OH,39.1412,-84.506,"Hilliard, Justin",6-1,230,LB,/ohio-state
+20,"Cincinnati, OH",OH,39.1412,-84.506,"Johnson, Xavier",6-2,212,RB,/ohio-state
+21,"Cincinnati, OH",OH,39.1412,-84.506,"Munford, Thayer",6-6,325,OL,/ohio-state
+22,"Cincinnati, OH",OH,39.1412,-84.506,"Riep, Amir",5-11,183,DB,/ohio-state
+23,"Cincinnati, OH",OH,39.1412,-84.506,"Vanatsky, Danny",6-1,205,QB,/ohio-state
+24,"Cincinnati, OH",OH,39.1412,-84.506,"Wilburn, Trayvon",5-11,220,LB,/ohio-state
+25,"Austin, TX",TX,30.3006,-97.7517,"Wilson, Garrett",6-0,188,WR,/ohio-state
+26,"Indianapolis, IN",IN,39.7771,-86.1458,"Jones, Dawand",6-8,360,OL,/ohio-state
+27,"Indianapolis, IN",IN,39.7771,-86.1458,"Werner, Pete",6-3,215,LB,/ohio-state
+28,"Columbus, OH",OH,39.986,-82.9851,"DiMaccio, Dominic",5-8,180,K,/ohio-state
+29,"Columbus, OH",OH,39.986,-82.9851,"Harrison, Malik",--,--,LB,/ohio-state
+30,"Columbus, OH",OH,39.986,-82.9851,"McCullough, Liam",6-2,210,LS,/ohio-state
+31,"Columbus, OH",OH,39.986,-82.9851,"McCullough, Roen",6-1,230,LS,/ohio-state
+32,"Virginia Beach, VA",VA,36.7335,-76.0435,"Mitchell, Teradja",6-2,236,LB,/ohio-state
+33,"Jacksonville, FL",FL,30.3322,-81.6749,"Crowley, Marcus",6-1,205,RB,/ohio-state
+34,"Jacksonville, FL",FL,30.3322,-81.6749,"Johnson, Tyreke",6-1,193,DB,/ohio-state
+35,"Jacksonville, FL",FL,30.3322,-81.6749,"Wade, Shaun",6-1,185,DB,/ohio-state
+36,"Memphis, TN",TN,35.1046,-89.9773,"Hamilton, Cormontae",6-2,263,TE,/ohio-state
+37,"Buffalo, NY",NY,42.9017,-78.8487,"Haubeil, Blake",6-3,200,K,/ohio-state
+38,"Fort Worth, TX",TX,32.7812,-97.3472,"Browning, Baron",6-4,230,LB,/ohio-state
+39,"Dayton, OH",OH,39.7797,-84.1998,"Landers, Robert",6-1,290,DL,/ohio-state
+40,"Dayton, OH",OH,39.7797,-84.1998,"Malone, Derrick",6-5,245,TE,/ohio-state
+41,"Toledo, OH",OH,41.6639,-83.5822,"Gant, Dallas",6-3,225,LB,/ohio-state
+42,"Fort Wayne, IN",IN,41.0885,-85.1436,"Mack, Austin",6-2,210,WR,/ohio-state
+43,"Fort Wayne, IN",IN,41.0885,-85.1436,"Young, Craig",6-4,200,ATH,/ohio-state
+44,"St. Paul, MN",MN,44.9477,-93.104,"Cornell, Jashon",6-3,265,DL,/ohio-state
+45,"Grand Prairie, TX",TX,32.687,-97.0209,"Okudah, Jeffrey",6-1,193,DB,/ohio-state
+46,"Lorain, OH",OH,41.4409,-82.184,"Berry, Rashod",6-4,245,TE,/ohio-state
+47,"Fort Lauderdale, FL",FL,26.1412,-80.1464,"Arnette, Damon",6-0,191,DB,/ohio-state
+48,"Fort Lauderdale, FL",FL,26.1412,-80.1464,"Victor, Binjimen",--,--,WR,/ohio-state
+49,"Bellflower, CA",CA,33.888,-118.1271,"Davis, Wyatt",6-4,310,OL,/ohio-state
+50,"Lakewood, OH",OH,41.4824,-81.8008,"Jamieson, Jack",6-1,285,OL,/ohio-state
+51,"Lindenhurst, NY",NY,40.6858,-73.3709,"Ruckert, Jeremy",6-5,240,TE,/ohio-state
+52,"San Marcos, CA",CA,33.135,-117.1743,"Olave, Chris",6-1,175,WR,/ohio-state
+53,"Roswell, GA",GA,34.0391,-84.3513,"Chambers, Steele",6-2,215,RB,/ohio-state
+54,"Troy, MI",MI,42.5818,-83.1457,"Robinson, Bradley",6-2,228,LS,/ohio-state
+55,"Franklin, TN",TN,35.9216,-86.8525,"Rossi, Mitch",6-1,235,RB,/ohio-state
+56,"Franklin, TN",TN,35.9216,-86.8525,"Wray, Max",6-7,305,OL,/ohio-state
+57,"Bolingbrook, IL",IL,41.6903,-88.1019,"Borland, Tuf",6-1,228,LB,/ohio-state
+58,"Mansfield, OH",OH,40.7656,-82.5275,"Stover, Cade",6-4,225,LB,/ohio-state
+59,"Pocatello, ID",ID,42.8716,-112.4652,"Togiai, Tommy",6-2,300,DL,/ohio-state
+60,"North Little Rock, AR",AR,34.7807,-92.2372,"Hill, K.J.",6-0,195,WR,/ohio-state
+61,"Bradenton, FL",FL,27.49,-82.574,"Pryor, Isaiah",6-2,195,DB,/ohio-state
+62,"Bradenton, FL",FL,27.49,-82.574,"Vincent, Taron",6-2,288,DL,/ohio-state
+63,"Wayne, NJ",NJ,40.9481,-74.2453,"Hickman, Ronnie",6-1,200,DB,/ohio-state
+64,"Draper, UT",UT,40.4956,-111.8607,"Bowen, Branden",6-7,320,OL,/ohio-state
+65,"Dublin, OH",OH,40.1112,-83.1453,"Cope, Robert",5-9,200,RB,/ohio-state
+66,"Dublin, OH",OH,40.1112,-83.1453,"Hoak, Gunnar",6-4,--,QB,/ohio-state
+67,"Dublin, OH",OH,40.1112,-83.1453,"Kacherski, Cade",6-2,212,LB,/ohio-state
+68,"Dublin, OH",OH,40.1112,-83.1453,"McMahon, Amari",6-0,205,RB,/ohio-state
+69,"Dublin, OH",OH,40.1112,-83.1453,"Saunders, C.J.",--,--,WR,/ohio-state
+70,"Sandusky, OH",OH,41.4437,-82.7149,"Kuhn, Chris",6-5,270,DL,/ohio-state
+71,"Mentor, OH",OH,41.6895,-81.3361,"Jacoby, Ryan",6-5,290,OL,/ohio-state
+72,"Mentor, OH",OH,41.6895,-81.3361,"Potter, Noah",6-6,252,DL,/ohio-state
+73,"Potomac, MD",MD,39.0141,-77.1943,"Shaw, Bryson",6-2,175,DB,/ohio-state
+74,"Wake Forest, NC",NC,35.9634,-78.5139,"McKenzie, Jaden",6-3,285,DL,/ohio-state
+75,"New Castle, PA",PA,40.9956,-80.3458,"Hooker, Marcus",5-11,192,DB,/ohio-state
+76,"Westerville, OH",OH,40.1241,-82.9209,"Gill, Jaelen",6-0,185,,/ohio-state
+77,"Westerville, OH",OH,40.1241,-82.9209,"Williamson, Marcus",5-10,180,DB,/ohio-state
+78,"Owasso, OK",OK,36.2882,-95.8328,"Proctor, Josh",6-2,198,DB,/ohio-state
+79,"Gahanna, OH",OH,40.0251,-82.8637,"Cooper, Jonathon",6-3,238,DL,/ohio-state
+80,"Stow, OH",OH,41.1765,-81.4344,"Fankhauser, Owen",5-11,195,DB,/ohio-state
+81,"Kennesaw, GA",GA,34.0262,-84.6177,"Fields, Justin",6-3,225,QB,/ohio-state
+82,"North Ridgeville, OH",OH,41.3851,-82.0194,"McCall, Demario",--,--,RB,/ohio-state
+83,"Mason, OH",OH,39.3571,-84.3023,"Hamdan, Zaid",5-11,265,DL,/ohio-state
+84,"La Verne, CA",CA,34.1208,-117.7702,"Andrade, J.P.",6-3,205,QB,/ohio-state
+85,"Massillon, OH",OH,40.7839,-81.5256,"Kutscher, Austin",6-0,200,WR,/ohio-state
+86,"Colleyville, TX",TX,32.8913,-97.1486,"LaRoe, Jagger",6-1,210,QB,/ohio-state
+87,"Medina, OH",OH,41.1358,-81.8694,"Smith, Ryan",6-3,270,OL,/ohio-state
+88,"Solon, OH",OH,41.3864,-81.4401,"Sinclair, Darryl",5-9,185,WR,/ohio-state
+89,"Piqua, OH",OH,40.1504,-84.2438,"Schmiesing, Ben",6-1,225,LB,/ohio-state
+90,"Lebanon, OH",OH,39.425,-84.2136,"Koch, Alec",5-10,175,WR,/ohio-state
+91,"Pickerington, OH",OH,39.889,-82.7678,"Hamilton, Davon",6-4,300,DL,/ohio-state
+92,"Pickerington, OH",OH,39.889,-82.7678,"Williams, Alex",6-6,260,DL,/ohio-state
+93,"Miamisburg, OH",OH,39.6323,-84.2725,"Myers, Josh",6-5,305,OL,/ohio-state
+94,"Ramsey, NJ",NJ,41.0595,-74.1454,"Friday, Tyler",6-3,255,DL,/ohio-state
+95,"Buford, GA",GA,34.1187,-83.9915,"Miller, Harry",6-4,310,OL,/ohio-state
+96,"Maumee, OH",OH,41.5696,-83.6636,"Hoover, Zach",6-2,175,K,/ohio-state
+97,"Brecksville, OH",OH,41.3079,-81.6193,"Wiglusz, Sam",5-11,185,WR,/ohio-state
+98,"Powell, OH",OH,40.1678,-83.0817,"Brock, Nathan",6-4,285,OL,/ohio-state
+99,"Powell, OH",OH,40.1678,-83.0817,"White, Brendon",6-2,210,DB,/ohio-state
+100,"Loveland, OH",OH,39.2679,-84.2731,"Batsch, Ryan",6-2,205,DB,/ohio-state
+101,"Dover, OH",OH,40.5302,-81.4805,"Deneher, Jack",6-4,200,K,/ohio-state
+102,"New Albany, OH",OH,40.0808,-82.7896,"O'Shaughnessy, Michael",6-4,200,P,/ohio-state
+103,"Louisville, OH",OH,40.837,-81.2644,"Thomas, Phillip",6-0,230,LS,/ohio-state
+104,"Doylestown, PA",PA,40.3139,-75.128,"Metzer, Jake",6-2,220,P,/ohio-state
+105,"Oradell, NJ",NJ,40.9562,-74.0314,"Jean-Baptiste, Javontae",6-5,235,DL,/ohio-state
+106,"Old Tappan, NJ",NJ,41.0163,-73.9856,"Fuller, Jordan",--,--,DB,/ohio-state
+107,"La Grange, TX",TX,29.9129,-96.8767,"Dobbins, J.K.",5-10,208,RB,/ohio-state

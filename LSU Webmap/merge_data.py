@@ -37,7 +37,7 @@ def mergeRosterWithGeoCoords(filename):
     # Export to csv
     new_df.to_csv(team_name + '_merged.csv')
 
-#mergeRosterWithGeoCoords('lsu_roster.csv')
+mergeRosterWithGeoCoords('ohio-state_roster.csv')
 
 # The following function concatenates all of the college football teams into one
 # main dataset.
@@ -51,14 +51,5 @@ def createMasterDataset():
 
 #createMasterDataset()
 
-def queryAPI(url):
-    response = requests.get(url)
-    data = response.json()
-    df = pd.DataFrame.from_dict(data)
-    df.to_csv('college.csv')
 
-
-url  = https://api.collegefootballdata.com/roster?team=LSU&year=2019
-
-queryAPI('https://api.collegefootballdata.com/recruiting/players?year=2019&classification=HighSchool')
 
