@@ -2,9 +2,8 @@ import folium
 import pandas as pd
 import os
 
-
 def createFilesList():
-    dir = os.getcwd() + '/Data Sets/'
+    dir = os.getcwd() + '/datasets/'
     return os.listdir(dir)
 
 def createFeatureGroup(team, file, color):
@@ -19,12 +18,12 @@ def createFeatureGroup(team, file, color):
         fg.add_child(folium.Marker(location = [lt, ln], popup = str(name), icon = folium.Icon(color = f"{color}")))
     map.add_child(fg)
 
-
 files = createFilesList()
 map = folium.Map(location = [38.58, -99.89], zoom_start = 6, tiles = "Stamen Terrain")
 
-createFeatureGroup("LSU", "lsu_merged.csv", "purple")
-createFeatureGroup("OSU", "ohio-state_merged.csv", "red")
+
+
+#createFeatureGroup("LSU", "lsu_merged.csv", "purple")
 
 map.add_child(folium.LayerControl())
 map.save("lsu_osu.html")
