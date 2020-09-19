@@ -12,7 +12,7 @@ def mergeRosterWithGeoCoords(df, team):
 
     # Import the datasets to be merged
     roster_df = df
-    cities_df = pd.read_csv(os.getcwd() + '/datasets/' + "worldcities.csv")
+    cities_df = pd.read_csv(os.getcwd() + '/datasets/worldcities/' + "worldcities.csv")
 
     # Subset the data to only include the USA as retain only the necessary variables for WebMap
     cities_df = cities_df[cities_df['iso3'] == 'USA']
@@ -31,7 +31,7 @@ def mergeRosterWithGeoCoords(df, team):
     new_df.drop(['home_city', 'home_state'], axis = 1, inplace = True)
     
     # Export to csv
-    new_df.to_csv(os.getcwd() + '/datasets/' + team_name + '_merged.csv')
+    new_df.to_csv(os.getcwd() + '/datasets/merged/' + team_name + '_merged.csv')
 
 # The following function concatenates all of the college football teams into one
 # main dataset.
@@ -41,7 +41,6 @@ def createMasterDataset():
         df = pd.read_csv(dir + file, "*", header=0)
         frames.append(df)
     master_df = pd.concat(frames)    
-    print(master_df)
 
 
 

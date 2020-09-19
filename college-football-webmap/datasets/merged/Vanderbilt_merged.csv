@@ -1,0 +1,107 @@
+,city,admin_name,lat,lng,id,first_name,last_name,weight,height,jersey,year,position,home_country,team,color,conference
+0,Miami,FL,25.7839,-80.2102,4362801,Javan,Rice,190.0,74.0,39.0,2.0,PK,USA,Vanderbilt,#000000,SEC
+1,Miami,FL,25.7839,-80.2102,4035777,DC,Williams,192.0,71.0,5.0,4.0,CB,USA,Vanderbilt,#000000,SEC
+2,Miami,FL,25.7839,-80.2102,4362805,Tyler,Steen,305.0,77.0,54.0,2.0,OL,USA,Vanderbilt,#000000,SEC
+3,Miami,FL,25.7839,-80.2102,4037118,Mo,Hasan,205.0,75.0,18.0,3.0,QB,USA,Vanderbilt,#000000,SEC
+4,Miami,FL,25.7839,-80.2102,-1040664,DC,Williams,192.0,71.0,5.0,,DB,USA,Vanderbilt,#000000,SEC
+5,Dallas,TX,32.7936,-96.7662,4258513,Luke,Blanton,235.0,74.0,51.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+6,Philadelphia,PA,40.0077,-75.1339,4035279,Andre,Mintze,246.0,75.0,48.0,4.0,LB,USA,Vanderbilt,#000000,SEC
+7,Houston,TX,29.7869,-95.3905,4035276,Braden,Kopp,270.0,77.0,89.0,3.0,TE,USA,Vanderbilt,#000000,SEC
+8,Washington,DC,38.9047,-77.0163,4567540,Brayden,Bapst,270.0,78.0,69.0,1.0,OL,USA,Vanderbilt,#000000,SEC
+9,Atlanta,GA,33.7627,-84.4225,4362785,Amir,Abdur-Rahman,210.0,76.0,2.0,2.0,WR,USA,Vanderbilt,#000000,SEC
+10,San Diego,CA,32.8312,-117.1225,4035281,Josiah,Sa'o,295.0,74.0,57.0,3.0,DL,USA,Vanderbilt,#000000,SEC
+11,San Antonio,TX,29.4658,-98.5254,4372550,Alex,Brown,235.0,74.0,52.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+12,San Antonio,TX,29.4658,-98.5254,4577536,Tre,Sands,170.0,71.0,27.0,1.0,DB,USA,Vanderbilt,#000000,SEC
+13,Sacramento,CA,38.5667,-121.4683,4051242,Justice,Shelton-Mosley,196.0,70.0,11.0,4.0,WR,USA,Vanderbilt,#000000,SEC
+14,Cincinnati,OH,39.1412,-84.506,4580611,Reece,Boggs,230.0,75.0,40.0,2.0,TE,USA,Vanderbilt,#000000,SEC
+15,Charlotte,NC,35.2079,-80.8304,4567529,Gabe,Jeudy,180.0,73.0,6.0,1.0,CB,USA,Vanderbilt,#000000,SEC
+16,Jacksonville,FL,30.3322,-81.6749,4035284,Jamauri,Wakefield,220.0,73.0,32.0,4.0,RB,USA,Vanderbilt,#000000,SEC
+17,Salt Lake City,UT,40.7774,-111.93,4362797,Salua,Masina,225.0,75.0,30.0,1.0,LB,USA,Vanderbilt,#000000,SEC
+18,Nashville,TN,36.1715,-86.7843,3917612,Ke'Shawn,Vaughn,218.0,70.0,5.0,4.0,RB,USA,Vanderbilt,#000000,SEC
+19,Nashville,TN,36.1715,-86.7843,4362800,Rutger,Reitmaier,265.0,75.0,94.0,3.0,DL,USA,Vanderbilt,#000000,SEC
+20,Nashville,TN,36.1715,-86.7843,3917618,Cam,Watkins,203.0,72.0,31.0,4.0,DB,USA,Vanderbilt,#000000,SEC
+21,Nashville,TN,36.1715,-86.7843,4242652,Brayden,DeVault-Smith,234.0,75.0,12.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+22,Nashville,TN,36.1715,-86.7843,4567541,Donald,Fitzgerald,300.0,80.0,71.0,1.0,OL,USA,Vanderbilt,#000000,SEC
+23,Nashville,TN,36.1715,-86.7843,4567545,Jayden,Harrison,192.0,70.0,88.0,1.0,WR,USA,Vanderbilt,#000000,SEC
+24,Nashville,TN,36.1715,-86.7843,4259473,Keithian,Starling,184.0,72.0,46.0,4.0,WR,USA,Vanderbilt,#000000,SEC
+25,Nashville,TN,36.1715,-86.7843,-1040661,Cam,Watkins,203.0,72.0,31.0,,DB,USA,Vanderbilt,#000000,SEC
+26,Memphis,TN,35.1046,-89.9773,4567537,Christian,James,255.0,76.0,44.0,1.0,DL,USA,Vanderbilt,#000000,SEC
+27,Memphis,TN,35.1046,-89.9773,4567532,Devin,Boddie Jr.,178.0,71.0,14.0,1.0,WR,USA,Vanderbilt,#000000,SEC
+28,New Orleans,LA,30.0687,-89.9288,4035274,Kenny,Hebert,232.0,76.0,21.0,4.0,LB,USA,Vanderbilt,#000000,SEC
+29,New Orleans,LA,30.0687,-89.9288,4035277,Kalija,Lipscomb,201.0,73.0,16.0,4.0,WR,USA,Vanderbilt,#000000,SEC
+30,Oklahoma City,OK,35.4676,-97.5137,4372555,Sean,Sadler,238.0,75.0,79.0,3.0,DL,USA,Vanderbilt,#000000,SEC
+31,Honolulu,HI,21.3294,-157.846,4242649,Jonah,Buchanan,285.0,76.0,61.0,3.0,OL,USA,Vanderbilt,#000000,SEC
+32,Birmingham,AL,33.5277,-86.7987,4567530,JR,Tran-Reno,206.0,73.0,9.0,1.0,RB,USA,Vanderbilt,#000000,SEC
+33,Grand Rapids,MI,42.9615,-85.6557,4372549,Jack,Bowen,185.0,72.0,12.0,3.0,QB,USA,Vanderbilt,#000000,SEC
+34,Staten Island,NY,40.5834,-74.1496,4362789,Dan,Dawkins,305.0,75.0,72.0,2.0,OL,USA,Vanderbilt,#000000,SEC
+35,Staten Island,NY,40.5834,-74.1496,-1040593,Dan,Dawkins,305.0,75.0,72.0,,OL,USA,Vanderbilt,#000000,SEC
+36,Chattanooga,TN,35.0657,-85.2487,4362791,Brendon,Harris,208.0,73.0,13.0,2.0,S,USA,Vanderbilt,#000000,SEC
+37,Oxnard,CA,34.1962,-119.1819,4242660,Michael,Owusu,238.0,77.0,88.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+38,Mobile,AL,30.6782,-88.1163,4259457,Cameron,Robinson,290.0,72.0,66.0,4.0,DL,USA,Vanderbilt,#000000,SEC
+39,Huntsville,AL,34.6988,-86.6412,4360240,Malik,Langham,290.0,77.0,35.0,2.0,DL,USA,Vanderbilt,#000000,SEC
+40,Canton,OH,40.8076,-81.3678,3927992,Eddie,Zinn-Turner,315.0,73.0,34.0,4.0,DL,USA,Vanderbilt,#000000,SEC
+41,Chandler,AZ,33.2827,-111.8517,3915770,Caleb,Peart,235.0,73.0,9.0,4.0,LB,USA,Vanderbilt,#000000,SEC
+42,Scottsdale,AZ,33.6872,-111.8651,4372558,Kyle,White,210.0,72.0,35.0,3.0,TE,USA,Vanderbilt,#000000,SEC
+43,Winter Haven,FL,28.0118,-81.7017,4362796,Ja'Veon,Marlow,190.0,71.0,3.0,2.0,RB,USA,Vanderbilt,#000000,SEC
+44,Irving,TX,32.8584,-96.9702,4242659,Dayo,Odeyingbo,280.0,78.0,10.0,4.0,DL,USA,Vanderbilt,#000000,SEC
+45,Fort Lauderdale,FL,26.1412,-80.1464,4362808,Max,Worship,202.0,73.0,14.0,3.0,S,USA,Vanderbilt,#000000,SEC
+46,Fort Lauderdale,FL,26.1412,-80.1464,4242656,Randall,Haynie,185.0,72.0,4.0,3.0,CB,USA,Vanderbilt,#000000,SEC
+47,Fort Lauderdale,FL,26.1412,-80.1464,4035272,Frank,Coppet,192.0,71.0,2.0,4.0,S,USA,Vanderbilt,#000000,SEC
+48,Fort Lauderdale,FL,26.1412,-80.1464,4242657,Grant,Miller,295.0,76.0,63.0,3.0,OL,USA,Vanderbilt,#000000,SEC
+49,Fort Lauderdale,FL,26.1412,-80.1464,4242648,James,Bostic,218.0,75.0,4.0,3.0,WR,USA,Vanderbilt,#000000,SEC
+50,Fort Lauderdale,FL,26.1412,-80.1464,4241972,Lashawn,Paulino-Bell,243.0,76.0,8.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+51,Cary,NC,35.7817,-78.8175,4362806,Lorenza,Surgers,250.0,77.0,97.0,2.0,DL,USA,Vanderbilt,#000000,SEC
+52,Champaign,IL,40.1144,-88.2735,4577533,Camden,Coleman,202.0,73.0,42.0,3.0,DB,USA,Vanderbilt,#000000,SEC
+53,Warner Robins,GA,32.5975,-83.6526,4242651,Tae,Daley,202.0,72.0,3.0,4.0,S,USA,Vanderbilt,#000000,SEC
+54,Naperville,IL,41.7483,-88.1657,4047349,Ryley,Guay,191.0,70.0,98.0,4.0,PK,USA,Vanderbilt,#000000,SEC
+55,Rock Hill,SC,34.9413,-81.025,4567534,Jaylen,Mahoney,183.0,71.0,23.0,2.0,CB,USA,Vanderbilt,#000000,SEC
+56,Davie,FL,26.0789,-80.287,4567539,Julian,Hernandez,300.0,76.0,62.0,1.0,OL,USA,Vanderbilt,#000000,SEC
+57,Roswell,GA,34.0391,-84.3513,4035273,Elijah,Hamilton,205.0,74.0,15.0,4.0,CB,USA,Vanderbilt,#000000,SEC
+58,Franklin,TN,35.9216,-86.8525,4372556,Harrison,Smith,186.0,70.0,95.0,3.0,P,USA,Vanderbilt,#000000,SEC
+59,Florence,AL,34.8303,-87.6654,4242646,Colin,Anderson,228.0,74.0,18.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+60,Dothan,AL,31.2335,-85.4068,3916833,Rowan,Godwin,305.0,76.0,53.0,4.0,OL,USA,Vanderbilt,#000000,SEC
+61,South Jordan,UT,40.5571,-111.9783,4242650,Cole,Clemens,320.0,78.0,74.0,4.0,OL,USA,Vanderbilt,#000000,SEC
+62,Alpharetta,GA,34.0703,-84.2738,4062500,Scott,Meyer,235.0,73.0,59.0,4.0,LS,USA,Vanderbilt,#000000,SEC
+63,Greenwood,IN,39.6019,-86.1073,4035283,Cameron,Tidd,300.0,75.0,90.0,4.0,DL,USA,Vanderbilt,#000000,SEC
+64,Madison,AL,34.7114,-86.7626,4567538,Daevion,Davis,300.0,74.0,9.0,2.0,DL,USA,Vanderbilt,#000000,SEC
+65,Cedar Hill,TX,32.5809,-96.9592,4242658,Dimitri,Moore,230.0,75.0,7.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+66,Rockwall,TX,32.917,-96.4377,4567535,Anfernee,Orji,222.0,74.0,26.0,2.0,S,USA,Vanderbilt,#000000,SEC
+67,Rockwall,TX,32.917,-96.4377,4362799,Alston,Orji,240.0,74.0,24.0,2.0,LB,USA,Vanderbilt,#000000,SEC
+68,Brentwood,TN,35.9918,-86.7758,4362802,Gavin,Schoenwald,238.0,76.0,10.0,2.0,TE,USA,Vanderbilt,#000000,SEC
+69,Brentwood,TN,35.9918,-86.7758,4362794,Cam,Johnson,190.0,72.0,7.0,2.0,WR,USA,Vanderbilt,#000000,SEC
+70,Brentwood,TN,35.9918,-86.7758,4362804,Brett,Starr,228.0,73.0,29.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+71,Indian Trail,NC,35.0699,-80.6453,4567536,Jared,Wheatley,195.0,73.0,36.0,1.0,P,USA,Vanderbilt,#000000,SEC
+72,Shawnee,OK,35.3525,-96.9647,4035288,Jackson,Winrow,195.0,73.0,13.0,4.0,WR,USA,Vanderbilt,#000000,SEC
+73,La Vergne,TN,36.0203,-86.5582,4567546,Nate,Clifton,260.0,77.0,96.0,1.0,DL,USA,Vanderbilt,#000000,SEC
+74,Kahului,HI,20.8715,-156.4603,4242645,Feleti,Afemui,243.0,75.0,17.0,3.0,LB,USA,Vanderbilt,#000000,SEC
+75,Chicago Heights,IL,41.5101,-87.6347,4577534,Tolu,Thomas-Ailara,220.0,75.0,93.0,3.0,DL,USA,Vanderbilt,#000000,SEC
+76,Lawrenceville,GA,33.9525,-83.9928,4242663,Jonathan,Stewart,326.0,79.0,73.0,3.0,OL,USA,Vanderbilt,#000000,SEC
+77,Lawrenceville,GA,33.9525,-83.9928,-1040651,Jonathan,Stewart,326.0,79.0,73.0,,OL,USA,Vanderbilt,#000000,SEC
+78,Zionsville,IN,39.999,-86.2921,4567544,Joel,DeCoursey,235.0,76.0,85.0,1.0,TE,USA,Vanderbilt,#000000,SEC
+79,Sevierville,TN,35.8873,-83.5678,4035285,Deuce,Wallace,212.0,74.0,2.0,3.0,QB,USA,Vanderbilt,#000000,SEC
+80,McDonough,GA,33.4399,-84.1508,-1040596,Tre',Douglas,202.0,74.0,20.0,,DB,USA,Vanderbilt,#000000,SEC
+81,Solon,OH,41.3864,-81.4401,4047341,Gil,Barksdale,180.0,70.0,38.0,4.0,S,USA,Vanderbilt,#000000,SEC
+82,North Augusta,SC,33.5214,-81.9547,3911536,Brandon,Maddox,290.0,75.0,56.0,4.0,DL,USA,Vanderbilt,#000000,SEC
+83,Jenks,OK,35.9981,-95.9737,4035280,Austin,Quillen,195.0,71.0,22.0,3.0,S,USA,Vanderbilt,#000000,SEC
+84,Darien,CT,41.0786,-73.4819,4372554,Mitchell,Pryor,211.0,73.0,25.0,3.0,RB,USA,Vanderbilt,#000000,SEC
+85,Kapolei,HI,21.3403,-158.0665,4035268,Sean,McMoore,292.0,76.0,50.0,3.0,OL,USA,Vanderbilt,#000000,SEC
+86,New Canaan,CT,41.1592,-73.4992,4577537,Wes,Farley,185.0,73.0,47.0,3.0,PK,USA,Vanderbilt,#000000,SEC
+87,Middleton,WI,43.1064,-89.5058,4047344,Cody,Markel,250.0,77.0,45.0,4.0,TE,USA,Vanderbilt,#000000,SEC
+88,Versailles,KY,38.0488,-84.726,4242664,Saige,Young,305.0,76.0,56.0,4.0,OL,USA,Vanderbilt,#000000,SEC
+89,Norcross,GA,33.9379,-84.2065,3915772,Jared,Pinkney,260.0,76.0,80.0,4.0,TE,USA,Vanderbilt,#000000,SEC
+90,Norcross,GA,33.9379,-84.2065,4035270,Devin,Cochran,320.0,79.0,,4.0,OL,USA,Vanderbilt,#000000,SEC
+91,Powder Springs,GA,33.866,-84.6839,4567533,Keyon,Brooks,202.0,73.0,21.0,2.0,RB,USA,Vanderbilt,#000000,SEC
+92,Glenn Dale,MD,38.9833,-76.804,4567543,Justin,Ball,230.0,78.0,84.0,1.0,TE,USA,Vanderbilt,#000000,SEC
+93,Loveland,OH,39.2679,-84.2731,4372557,Michael,Warden,287.0,74.0,65.0,3.0,OL,USA,Vanderbilt,#000000,SEC
+94,Loganville,GA,33.8353,-83.8957,4577535,Tre,Brown,205.0,70.0,43.0,2.0,LB,USA,Vanderbilt,#000000,SEC
+95,Yorktown,IN,40.183,-85.5123,3915468,Riley,Neal,225.0,78.0,6.0,4.0,QB,USA,Vanderbilt,#000000,SEC
+96,Smithfield,VA,36.9754,-76.6162,4242661,Chris,Pierce,225.0,76.0,19.0,4.0,WR,USA,Vanderbilt,#000000,SEC
+97,Saline,MI,42.1737,-83.7782,4372553,Zach,Drevno,220.0,72.0,49.0,3.0,LS,USA,Vanderbilt,#000000,SEC
+98,Chatham,NJ,40.7405,-74.3838,4362807,Allan,Walters,210.0,74.0,16.0,2.0,QB,USA,Vanderbilt,#000000,SEC
+99,Hillsborough,NC,36.068,-79.0994,4242653,Stone,Edwards,270.0,77.0,99.0,2.0,DL,USA,Vanderbilt,#000000,SEC
+100,Rumson,NJ,40.3626,-74.0046,4362798,Elijah,McAllister,258.0,78.0,41.0,2.0,LB,USA,Vanderbilt,#000000,SEC
+101,Cumming,GA,34.2064,-84.1337,4362788,Ben,Bresnahan,245.0,76.0,86.0,2.0,TE,USA,Vanderbilt,#000000,SEC
+102,Attalla,AL,34.0049,-86.104,4567531,Justin,Harris,190.0,73.0,11.0,1.0,S,USA,Vanderbilt,#000000,SEC
+103,Andalusia,AL,31.3101,-86.4781,4362786,BJ,Anderson,184.0,73.0,16.0,2.0,CB,USA,Vanderbilt,#000000,SEC
+104,Andalusia,AL,31.3101,-86.4781,4242655,Allan,George,185.0,73.0,28.0,3.0,CB,USA,Vanderbilt,#000000,SEC
+105,Andalusia,AL,31.3101,-86.4781,4372551,Will,Clark,228.0,73.0,44.0,2.0,FB,USA,Vanderbilt,#000000,SEC

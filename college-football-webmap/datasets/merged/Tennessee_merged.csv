@@ -1,0 +1,108 @@
+,city,admin_name,lat,lng,id,first_name,last_name,weight,height,jersey,year,position,home_country,team,color,conference
+0,Miami,FL,25.7839,-80.2102,4242438,Deandre,Johnson,246.0,75.0,13.0,4.0,LB,USA,Tennessee,#EE9627,SEC
+1,Philadelphia,PA,40.0077,-75.1339,4570562,Romello,Edwards,187.0,72.0,7.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+2,Philadelphia,PA,40.0077,-75.1339,4032754,Jahmir,Johnson,286.0,77.0,58.0,4.0,OL,USA,Tennessee,#EE9627,SEC
+3,Washington,DC,38.9047,-77.0163,4570575,Savion,Williams,295.0,76.0,50.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+4,Washington,DC,38.9047,-77.0163,4241937,Kasim,Hill,234.0,74.0,11.0,3.0,QB,USA,Tennessee,#EE9627,SEC
+5,Atlanta,GA,33.7627,-84.4225,4270055,Grant,Frerking,209.0,77.0,38.0,3.0,WR,USA,Tennessee,#EE9627,SEC
+6,Atlanta,GA,33.7627,-84.4225,4242452,Solon,Page III,218.0,74.0,38.0,3.0,LB,USA,Tennessee,#EE9627,SEC
+7,San Diego,CA,32.8312,-117.1225,4369840,Dominick,Wood-Anderson,257.0,76.0,4.0,4.0,TE,USA,Tennessee,#EE9627,SEC
+8,Las Vegas,NV,36.2333,-115.2654,4369863,Cedric,Tillman,215.0,75.0,85.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+9,Sacramento,CA,38.5667,-121.4683,4426350,Henry,To'o To'o,235.0,74.0,11.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+10,Orlando,FL,28.4772,-81.3369,4369853,Kingston,Harris,302.0,75.0,54.0,2.0,DL,USA,Tennessee,#EE9627,SEC
+11,Cincinnati,OH,39.1412,-84.506,4570564,Michael,Bittner,214.0,74.0,17.0,2.0,QB,USA,Tennessee,#EE9627,SEC
+12,Charlotte,NC,35.2079,-80.8304,4426345,Quavaris,Crouch,241.0,74.0,27.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+13,Nashville,TN,36.1715,-86.7843,4242436,Theo,Jackson,190.0,74.0,26.0,4.0,DB,USA,Tennessee,#EE9627,SEC
+14,Nashville,TN,36.1715,-86.7843,4242442,Princeton,Fant,234.0,74.0,88.0,3.0,TE,USA,Tennessee,#EE9627,SEC
+15,Nashville,TN,36.1715,-86.7843,4242431,Ty,Chandler,209.0,71.0,8.0,4.0,RB,USA,Tennessee,#EE9627,SEC
+16,Nashville,TN,36.1715,-86.7843,4035177,Daniel,Bituli,252.0,75.0,35.0,4.0,LB,USA,Tennessee,#EE9627,SEC
+17,Nashville,TN,36.1715,-86.7843,4242451,Brent,Cimaglia,210.0,72.0,42.0,4.0,PK,USA,Tennessee,#EE9627,SEC
+18,Nashville,TN,36.1715,-86.7843,4369850,Nyles,Gaddy,231.0,76.0,57.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+19,Nashville,TN,36.1715,-86.7843,4426465,Jackson,Lampley,315.0,76.0,50.0,1.0,OL,USA,Tennessee,#EE9627,SEC
+20,Nashville,TN,36.1715,-86.7843,4260254,Jay,Shoop,194.0,73.0,10.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+21,Nashville,TN,36.1715,-86.7843,4047328,Chip,Omer,204.0,72.0,42.0,3.0,RB,USA,Tennessee,#EE9627,SEC
+22,Memphis,TN,35.1046,-89.9773,4570561,Eric,Gray,200.0,70.0,3.0,2.0,RB,USA,Tennessee,#EE9627,SEC
+23,Memphis,TN,35.1046,-89.9773,4369837,Garrett,Johnson,179.0,71.0,9.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+24,Memphis,TN,35.1046,-89.9773,4430478,Elijah,Simmons,340.0,74.0,51.0,1.0,DL,USA,Tennessee,#EE9627,SEC
+25,Memphis,TN,35.1046,-89.9773,4369859,Jerome,Carvin,313.0,77.0,75.0,3.0,OL,USA,Tennessee,#EE9627,SEC
+26,Memphis,TN,35.1046,-89.9773,4242454,Jake,Powers,201.0,72.0,43.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+27,Richmond,VA,37.5295,-77.4756,4369846,Tanner,Dobrucky,193.0,69.0,36.0,3.0,WR,USA,Tennessee,#EE9627,SEC
+28,New Orleans,LA,30.0687,-89.9288,4242449,Terrell,Bailey,188.0,71.0,36.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+29,New Orleans,LA,30.0687,-89.9288,4369843,Brandon,Davis,160.0,70.0,29.0,1.0,DB,USA,Tennessee,#EE9627,SEC
+30,Raleigh,NC,35.8324,-78.6438,4242457,Matthew,Butler,289.0,76.0,94.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+31,Birmingham,AL,33.5277,-86.7987,4369861,Jarious,Abercrombie,300.0,76.0,79.0,2.0,OL,USA,Tennessee,#EE9627,SEC
+32,Knoxville,TN,35.9692,-83.9496,4035183,Austin,Pope,235.0,76.0,81.0,4.0,TE,USA,Tennessee,#EE9627,SEC
+33,Knoxville,TN,35.9692,-83.9496,4242456,Joe,Doyle,204.0,72.0,47.0,2.0,P,USA,Tennessee,#EE9627,SEC
+34,Knoxville,TN,35.9692,-83.9496,4369864,Jacob,Warren,244.0,78.0,87.0,2.0,TE,USA,Tennessee,#EE9627,SEC
+35,Knoxville,TN,35.9692,-83.9496,4360790,Braden,Collins,200.0,74.0,84.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+36,Knoxville,TN,35.9692,-83.9496,4570571,West,Shuler,225.0,73.0,39.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+37,Knoxville,TN,35.9692,-83.9496,4570574,Cameron,Miller,206.0,70.0,46.0,1.0,RB,USA,Tennessee,#EE9627,SEC
+38,Knoxville,TN,35.9692,-83.9496,4570582,Darel,Middleton,305.0,79.0,97.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+39,Knoxville,TN,35.9692,-83.9496,4035185,Andrew,Craig,244.0,76.0,86.0,3.0,TE,USA,Tennessee,#EE9627,SEC
+40,Chattanooga,TN,35.0657,-85.2487,4247460,Tyrik,Stewart,195.0,72.0,33.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+41,Mobile,AL,30.6782,-88.1163,4242440,Shawn,Shamburger,185.0,71.0,12.0,4.0,DB,USA,Tennessee,#EE9627,SEC
+42,Huntsville,AL,34.6988,-86.6412,4242447,Will,Ignont,225.0,73.0,35.0,3.0,LB,USA,Tennessee,#EE9627,SEC
+43,Santa Clarita,CA,34.4155,-118.4992,4369839,J.T.,Shrout,213.0,75.0,12.0,2.0,QB,USA,Tennessee,#EE9627,SEC
+44,Santa Clarita,CA,34.4155,-118.4992,-1034229,J.T.,Shrout,213.0,75.0,12.0,,QB,USA,Tennessee,#EE9627,SEC
+45,Savannah,GA,32.0281,-81.1785,4570577,Wanya,Morris,315.0,77.0,64.0,2.0,OL,USA,Tennessee,#EE9627,SEC
+46,Lafayette,LA,30.2084,-92.0323,4369849,Kenneth,George Jr.,201.0,71.0,41.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+47,Myrtle Beach,SC,33.7096,-78.8842,4428549,Kenney,Solomon,176.0,72.0,31.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+48,Clarksville,TN,36.5696,-87.3428,4570572,Fred,Orr,205.0,71.0,40.0,1.0,RB,USA,Tennessee,#EE9627,SEC
+49,Clarksville,TN,36.5696,-87.3428,4050315,Matt,Ballard,229.0,72.0,40.0,3.0,LB,USA,Tennessee,#EE9627,SEC
+50,Fort Lauderdale,FL,26.1412,-80.1464,4242464,Kivon,Bennett,235.0,74.0,95.0,3.0,LB,USA,Tennessee,#EE9627,SEC
+51,Fort Lauderdale,FL,26.1412,-80.1464,4035198,Brandon,Johnson,202.0,74.0,7.0,4.0,WR,USA,Tennessee,#EE9627,SEC
+52,Fort Lauderdale,FL,26.1412,-80.1464,-1034191,Brandon,Johnson,195.0,74.0,7.0,,WR,USA,Tennessee,#EE9627,SEC
+53,Murfreesboro,TN,35.8493,-86.4117,3886598,Jauan,Jennings,208.0,75.0,15.0,4.0,WR,USA,Tennessee,#EE9627,SEC
+54,Ocala,FL,29.178,-82.1511,4427928,Brian,Maurer,195.0,75.0,18.0,2.0,QB,USA,Tennessee,#EE9627,SEC
+55,Warner Robins,GA,32.5975,-83.6526,4035170,Marquez,Callaway,204.0,74.0,1.0,4.0,WR,USA,Tennessee,#EE9627,SEC
+56,Fairfield,CA,38.2594,-122.0319,4029573,Jordan,Allen,241.0,76.0,86.0,4.0,TE,USA,Tennessee,#EE9627,SEC
+57,Clearwater,FL,27.9788,-82.7624,4242443,Jacquez,Jones,171.0,70.0,21.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+58,Lodi,NJ,40.8784,-74.0814,4035167,Jarrett,Guarantano,215.0,76.0,2.0,4.0,QB,USA,Tennessee,#EE9627,SEC
+59,Fort Myers,FL,26.6195,-81.8303,4242444,Shanon,Reid,224.0,72.0,21.0,3.0,LB,USA,Tennessee,#EE9627,SEC
+60,Jackson,TN,35.6536,-88.8353,4242459,Trey,Smith,335.0,78.0,73.0,4.0,OL,USA,Tennessee,#EE9627,SEC
+61,Jackson,TN,35.6536,-88.8353,4369857,Greg,Emerson,300.0,75.0,90.0,2.0,DL,USA,Tennessee,#EE9627,SEC
+62,Daytona Beach,FL,29.1994,-81.0982,4035181,Marcus,Tatum,315.0,78.0,68.0,4.0,OL,USA,Tennessee,#EE9627,SEC
+63,Marietta,GA,33.9532,-84.5422,4426399,Ramel,Keyton,190.0,75.0,80.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+64,Rome,GA,34.2662,-85.1862,4570580,Sean,Brown,241.0,77.0,83.0,1.0,TE,USA,Tennessee,#EE9627,SEC
+65,Morristown,TN,36.2047,-83.3005,4584510,Matthew,Salanasky,235.0,71.0,52.0,2.0,LS,USA,Tennessee,#EE9627,SEC
+66,Morristown,TN,36.2047,-83.3005,-1034225,Matthew,Salansky,225.0,71.0,52.0,,LS,USA,Tennessee,#EE9627,SEC
+67,Hendersonville,TN,36.3063,-86.5998,3915384,Riley,Lovingood,216.0,72.0,46.0,4.0,LS,USA,Tennessee,#EE9627,SEC
+68,Cartersville,GA,34.1632,-84.8007,4426460,Jackson,Lowe,245.0,76.0,82.0,1.0,TE,USA,Tennessee,#EE9627,SEC
+69,Collierville,TN,35.0471,-89.6988,4570563,Spencer,Smith,200.0,73.0,14.0,2.0,QB,USA,Tennessee,#EE9627,SEC
+70,Monroe,MI,41.9154,-83.385,4242453,Nick,Humphrey,213.0,73.0,37.0,4.0,LB,USA,Tennessee,#EE9627,SEC
+71,Paducah,KY,37.0711,-88.6435,4369866,Airin,Spell,297.0,73.0,67.0,2.0,OL,USA,Tennessee,#EE9627,SEC
+72,Brentwood,TN,35.9918,-86.7758,4570570,Toby,Wilson,174.0,70.0,39.0,2.0,PK,USA,Tennessee,#EE9627,SEC
+73,Brentwood,TN,35.9918,-86.7758,4035182,Ryan,Johnson,310.0,78.0,70.0,4.0,OL,USA,Tennessee,#EE9627,SEC
+74,Germantown,TN,35.0829,-89.7825,4570573,Marshall,Ware,175.0,70.0,43.0,2.0,PK,USA,Tennessee,#EE9627,SEC
+75,Gallatin,TN,36.3782,-86.4696,4369854,Gatkek,Kueth,255.0,74.0,86.0,3.0,DL,USA,Tennessee,#EE9627,SEC
+76,Tucker,GA,33.8436,-84.2021,4369842,Trevon,Flowers,193.0,71.0,25.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+77,East Point,GA,33.6696,-84.47,4570566,Isaiah,Montgomery,211.0,73.0,23.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+78,Mount Juliet,TN,36.1991,-86.5114,4570576,Bryan,Aiken,266.0,76.0,52.0,1.0,LB,USA,Tennessee,#EE9627,SEC
+79,Vestavia Hills,AL,33.4518,-86.7438,4570581,Hunter,Salmon,248.0,77.0,89.0,2.0,TE,USA,Tennessee,#EE9627,SEC
+80,Douglasville,GA,33.7384,-84.7068,4570568,J.T.,Siekerman,179.0,70.0,26.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+81,Douglasville,GA,33.7384,-84.7068,4570578,Parker,Ball,284.0,76.0,65.0,1.0,OL,USA,Tennessee,#EE9627,SEC
+82,Lawrenceville,GA,33.9525,-83.9928,4035176,Baylen,Buchanan,197.0,71.0,28.0,4.0,DB,USA,Tennessee,#EE9627,SEC
+83,Crown Point,IN,41.4141,-87.3456,4047329,Jake,Yelich,233.0,74.0,59.0,3.0,LS,USA,Tennessee,#EE9627,SEC
+84,Athens,AL,34.7847,-86.951,4430400,Ethan,Rinke,235.0,75.0,53.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+85,Cornelius,NC,35.4731,-80.8822,4427274,Tyus,Fields,186.0,70.0,17.0,1.0,DB,USA,Tennessee,#EE9627,SEC
+86,Hopewell,VA,37.2915,-77.2985,3915396,Darrell,Taylor,255.0,76.0,19.0,4.0,LB,USA,Tennessee,#EE9627,SEC
+87,Naples,FL,26.1505,-81.7936,4035171,Tyler,Byrd,210.0,71.0,10.0,4.0,WR,USA,Tennessee,#EE9627,SEC
+88,Naples,FL,26.1505,-81.7936,4035175,Carlin,Fils-aime,185.0,71.0,27.0,4.0,RB,USA,Tennessee,#EE9627,SEC
+89,Lexington,SC,33.9891,-81.2195,4369847,Paxton,Brooks,194.0,78.0,37.0,3.0,P,USA,Tennessee,#EE9627,SEC
+90,Bartow,FL,27.8868,-81.8213,4242445,Tim,Jordan,203.0,71.0,9.0,3.0,RB,USA,Tennessee,#EE9627,SEC
+91,Suwanee,GA,34.0507,-84.0687,4426832,Warren,Burrell,176.0,72.0,4.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+92,Moultrie,GA,31.1591,-83.7708,4369848,J.J.,Peterson,225.0,74.0,6.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+93,Moultrie,GA,31.1591,-83.7708,4035178,Ja'Quain,Blakely,295.0,74.0,48.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+94,Moultrie,GA,31.1591,-83.7708,4385265,J.J.,Peterson,,74.0,6.0,,LB,USA,Tennessee,#EE9627,SEC
+95,Apollo Beach,FL,27.7618,-82.4002,4242439,Richard,Mize Jr.,176.0,70.0,13.0,2.0,WR,USA,Tennessee,#EE9627,SEC
+96,Conyers,GA,33.6645,-83.9967,4369862,Kurott,Garland,304.0,75.0,79.0,2.0,DL,USA,Tennessee,#EE9627,SEC
+97,College Park,GA,33.6364,-84.464,4035173,Nigel,Warrior,190.0,72.0,18.0,4.0,DB,USA,Tennessee,#EE9627,SEC
+98,Irmo,SC,34.1016,-81.1953,4369838,Bryce,Thompson,185.0,71.0,20.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+99,Manchester,TN,35.463,-86.0774,4369835,Alontae,Taylor,193.0,72.0,2.0,3.0,DB,USA,Tennessee,#EE9627,SEC
+100,Bainbridge,GA,30.9046,-84.5722,4427399,Roman,Harrison,233.0,74.0,30.0,2.0,LB,USA,Tennessee,#EE9627,SEC
+101,Brownsville,TN,35.589,-89.2578,4369865,Emmit,Gooden,290.0,75.0,93.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+102,Savannah,TN,35.2211,-88.2359,4242446,LaTrell,Bumphus,286.0,75.0,88.0,4.0,DL,USA,Tennessee,#EE9627,SEC
+103,Wetumpka,AL,32.5405,-86.2053,3859007,Brandon,Kennedy,301.0,75.0,55.0,4.0,OL,USA,Tennessee,#EE9627,SEC
+104,Austell,GA,33.8202,-84.6452,4427120,Jaylen,McCollough,205.0,72.0,22.0,2.0,DB,USA,Tennessee,#EE9627,SEC
+105,Lovejoy,GA,33.4426,-84.3176,4427985,Jerrod,Means,214.0,74.0,15.0,1.0,WR,USA,Tennessee,#EE9627,SEC
+106,Booneville,MS,34.6643,-88.5684,4260284,James,Christian,204.0,68.0,28.0,3.0,RB,USA,Tennessee,#EE9627,SEC
